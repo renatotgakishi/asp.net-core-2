@@ -1,0 +1,12 @@
+/home/renato/aspcore2/Tarefas/bin/Debug/netcoreapp2.0/app.db
+/home/renato/aspcore2/Tarefas/bin/Debug/netcoreapp2.0/Tarefas.deps.json
+/home/renato/aspcore2/Tarefas/bin/Debug/netcoreapp2.0/Tarefas.runtimeconfig.json
+/home/renato/aspcore2/Tarefas/bin/Debug/netcoreapp2.0/Tarefas.runtimeconfig.dev.json
+/home/renato/aspcore2/Tarefas/bin/Debug/netcoreapp2.0/Tarefas.dll
+/home/renato/aspcore2/Tarefas/bin/Debug/netcoreapp2.0/Tarefas.pdb
+/home/renato/aspcore2/Tarefas/obj/Debug/netcoreapp2.0/Tarefas.csproj.CoreCompileInputs.cache
+/home/renato/aspcore2/Tarefas/obj/Debug/netcoreapp2.0/UserSecretsAssemblyInfo.cs
+/home/renato/aspcore2/Tarefas/obj/Debug/netcoreapp2.0/Tarefas.AssemblyInfoInputs.cache
+/home/renato/aspcore2/Tarefas/obj/Debug/netcoreapp2.0/Tarefas.AssemblyInfo.cs
+/home/renato/aspcore2/Tarefas/obj/Debug/netcoreapp2.0/Tarefas.dll
+/home/renato/aspcore2/Tarefas/obj/Debug/netcoreapp2.0/Tarefas.pdb
