@@ -1,0 +1,31 @@
+
+gerador de cartao_numeros
+prametros: nr_sim[],nr_nao[],qtde_sequencia, qtde_par, qtde_impar
+
+salvar() cartoes gerados para seus respectivos usuarios
+busca_sorteio() funcao q pega os numros sorteados no site da caixa econonica
+confere() confere os cartoes baseado na data sorteio e data do cartao gerado
+deleta() deleta cartoes antigos de todos os usuarios
+
+
+**jogos_usuario**
+id
+usuario_id
+cartao_seq
+cartao_numeros 
+data
+premio_id
+qt_acertos 
+
+**-- sorteio --**
+id
+tipo_jogo
+sorteio
+data 
+numeros_sorteados
+valor15
+valor14
+valor13
+valor12
+valor11
+
